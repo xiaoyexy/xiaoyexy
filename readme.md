@@ -2,8 +2,8 @@ Hi there 👋!
 
 Welcome to my page!
 
--I'm currently working as a Software Engineer & Data Analyst @Whova
--How to reach me: [LinkedIn](https://www.linkedin.com/in/yexiao127/)
+- I'm currently working as a Software Engineer & Data Analyst @Whova
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/yexiao127/)
 
 #### Languages and Frameworks
 
