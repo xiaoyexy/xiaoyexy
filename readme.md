@@ -5,7 +5,7 @@
 ### 💁‍♀️ &nbsp;About Me
 
 - 👩‍💻 &nbsp;I'm working as a Software Engineer & Data Analyst.
-- 🎓 &nbsp;I'm currently persuing my M.S. degree in Computer Science at Georgia Institute of Technology.
+- 🎓 &nbsp;I'm currently pursuing my M.S. degree in Computer Science at Georgia Institute of Technology.
 - 💡 &nbsp;My interests are full-stack web development, cloud and database.
 - 🖥 &nbsp;I love 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
