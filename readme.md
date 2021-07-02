@@ -5,8 +5,8 @@
 ### 💁‍♀️ &nbsp;About Me
 
 
-* 👩‍💻 &nbsp;I'm working as a Software Engineer & Data Analyst at Whova,Inc
-- 🎓 &nbsp;I'm currently persuing my M.S. degree in Computer Science at Georgia Institute of Technology
+- 👩‍💻 &nbsp;I'm working as a Software Engineer & Data Analyst.
+- 🎓 &nbsp;I'm currently persuing my M.S. degree in Computer Science at Georgia Institute of Technology.
 - 💡 &nbsp;My interests are full-stack web development, cloud and database.
 - 🖥 &nbsp;I love 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -59,7 +59,13 @@
 ![bigquery](https://img.shields.io/badge/-BigQuery-000000?style=flat&logo=google&logoColor=2CA5E0)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 
-
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/xiaoyexy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xiaoyexy&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xiaoyexy&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 [![](https://img.shields.io/badge/-yexiao127-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yexiao127/)](https://www.linkedin.com/in/yexiao127/)
